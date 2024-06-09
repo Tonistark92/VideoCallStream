@@ -19,12 +19,12 @@ This project utilizes the Stream SDK to implement a video call application. The 
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/stream-sdk-video-call-app.git
+    git clone [https://github.com/yourusername/stream-sdk-video-call-app](https://github.com/Tonistark92/VideoCallStream).git
     ```
 
 2. Open the project in Android Studio.
 
-3. Ensure that the Stream SDK is added to the project. You can find the Stream SDK documentation and download link [here](https://getstream.io/).
+3. Ensure that the Stream SDK is added to the project. You can find the Stream SDK documentation 
 
 4. Build and run the project on your Android device.
 
